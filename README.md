@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 💬 Ask me about **Python, Django, Flask, FastAPI, SQL, Postgresql, RabbitMQ**
+- 💬 Ask me about **Python, Django, Flask, FastAPI, SQL, Postgresql, BigQuery, RabbitMQ, Celery**
 
 - 📫 How to reach me **cristiantcjti@gmail.com**
 
